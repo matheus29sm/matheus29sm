@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/matheus29sm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus29sm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus29sm&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus29sm&hide=jupyternotebook&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 <div> 
  <a href = "mailto:matheus05sm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="www.linkedin.com/in/matheus-s-m" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/matheus-s-m/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
